@@ -6,4 +6,4 @@ Using gemini library
 2. vision.py - image reading app
 3. qachat.py - chat app storing all old messages
 
-Frontend :
+Frontend : Streamlit
